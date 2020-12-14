@@ -1,2 +1,2 @@
-# Leetcode-Nov-challenge
-practice repository with code snippets from leetcode nov challenge 
+# Leetcode-challenges
+practice repository with code snippets from leetcode  challenges 
